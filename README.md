@@ -4,36 +4,36 @@ This project focuses on analyzing movie ratings to understand audience preferenc
 
 Tools & Technologies :
 
-Python
+- Python
 
-Pandas
+- Pandas
 
-NumPy
+- NumPy
 
-Matplotlib
+- Matplotlib
 
-Seaborn
+- Seaborn
 
-Jupyter Notebook
+- Jupyter Notebook
 
 Techniques Used :
 
-Data Cleaning and Preprocessing
+- Data Cleaning and Preprocessing
 
-Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis (EDA)
 
-Statistical Analysis
+- Statistical Analysis
 
-Data Visualization
+- Data Visualization
 
-Trend and Pattern Analysis
+- Trend and Pattern Analysis
 
 Key Analysis & Insights :
 
-Identified movies with the highest and lowest ratings
+- Identified movies with the highest and lowest ratings
 
-Analyzed rating distribution across movies
+- Analyzed rating distribution across movies
 
-Observed trends in audience preferences
+- Observed trends in audience preferences
 
-Compared average ratings and vote counts
+- Compared average ratings and vote counts
